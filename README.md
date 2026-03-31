@@ -4,8 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-green.svg)]()
 [![GPU](https://img.shields.io/badge/GPU-NVIDIA--RTX--4070-76b900.svg)]()
 [![Institution](https://img.shields.io/badge/Southeast--University-Nanjing-blue.svg)]()
-
-Official implementation of the paper:  
+ 
 **"A Hybrid Hierarchical Framework Combining Stochastic MPC and Evolutionary Game Theory for Prosumer Coordination"**
 
 ---
@@ -14,7 +13,6 @@ Official implementation of the paper:
 * **Vikram Kumar** (Main Author) - `vk2391080@gmail.com`
 * **Usama Aslam** - `usamaaslma465@gmail.com`
 * **Muhammad Ahsan Niazi** - `ahsanniazi297@gmail.com`
-* **Affiliation:** *School of Electrical Engineering, Southeast University, Nanjing, China*
 
 ---
 
@@ -86,4 +84,3 @@ expand_less
   year={2024}
 }
 
-© 2024 Southeast University Nanjing, China. School of Electrical Engineering.
